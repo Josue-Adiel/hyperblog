@@ -1,2 +1,2 @@
-#Porque poner archivos binarios en git ignore es una MALA practica
+# Porque poner archivos binarios en git ignore es una MALA practica
 *.jpg
